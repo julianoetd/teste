@@ -1,0 +1,35 @@
+.bgWhite{
+    background-color: rgb(255, 255, 255);
+}
+.courseSize{
+    display: flex;
+}
+.btnAddTreinamento{
+    background-color: #1dbad3;
+    color: cornsilk;
+    width: 220px;
+    height: 35px;
+    border: none;
+    border-radius: 3px;
+    margin: 23px;
+    cursor: pointer;
+
+}
+.title{
+    font-size: 24px;
+    margin: 23px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    height: 60px;
+
+    
+
+
+}

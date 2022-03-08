@@ -1,0 +1,31 @@
+.profilePicture{
+    border-radius: 50%;
+    background-color: slategray;
+    width: 50px !important;
+    height: 50px;
+    background-image: url("../img/elo.png");
+    background-repeat: round;
+    margin-left: 10px;
+
+}
+.bgColor{
+   
+    height: 60px;
+    background-color: #2e3c56;
+}
+.headerStyle{
+     display: flex;
+    justify-content: end;
+    padding: 5px 23px;
+    color:cornsilk
+}
+.nameStyle{
+    font-family: -webkit-pictograph;
+    
+}
+.ocupation{
+    text-align-last: right;
+
+    font-size: small;
+
+}
